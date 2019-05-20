@@ -97,7 +97,7 @@ Zuerst habe ich Vagrant auf [dieser Webseite](https://www.vagrantup.com/ "vagran
 1. Terminal öffnen
 2. Einen neuen Ordner für die VM anlegen:
     ```Shell
-      $ cd C:\Users\silva
+      $ cd C:\Users\Arun Shanmuganathan
       $ mkdir MeineVagrantVM
       $ cd MeineVagrantVM
     ``` 
@@ -109,7 +109,7 @@ Zuerst habe ich Vagrant auf [dieser Webseite](https://www.vagrantup.com/ "vagran
     ``` 
 4. Die VM ist nun bereit und kann mit SSH-Zugriff bedient werden:
     ```Shell
-      $ cd C:\Users\silva\MeineVagrantVM      #Zum Verzeichnis der VM wechseln
+      $ cd C:\Users\Arun Shanmuganathan\M300\eigene umgebung\     #Zum Verzeichnis der VM wechseln
       $ vagrant ssh                       #SSH-Verbindung zur VM aufbauen
     ``` 
 
@@ -118,7 +118,7 @@ Zuerst habe ich Vagrant auf [dieser Webseite](https://www.vagrantup.com/ "vagran
 1. Terminal öffnen
 2. In das M300-Verzeichnis wechseln:
     ```Shell
-      $ cd C:\Users\silva\M300\vagrant\web
+      $ cd C:\Users\Arun Shanmuganathan\M300\eigene umgebung\virtual boxen
     ``` 
 3. VM erstellen und starten:
     ```Shell
